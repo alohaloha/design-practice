@@ -1,0 +1,8 @@
+ 
+	•	Portfolio
+	•	About
+	•	Contact
+Life is beautiful, Snap!Snap!
+このWebサイトは、学習用サンプルとして作成する「SNAPPERS」という架空の写真家のポートフォリオサイトです。 チュートリアル形式でHTMLとCSSを学びながら完成を目指します。楽しんで作成しましょう。
+My Portfolio
+(C)2017 Hattori-studio. 
